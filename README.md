@@ -1,4 +1,4 @@
 # HRDashBoard
 Created using Power Bi
 
-![alt text](HRDashboard.png)
+![alt text](source/HRDashboard.png)
